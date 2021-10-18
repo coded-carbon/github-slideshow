@@ -1,4 +1,4 @@
-_post/0000-01-02-coded-carbon.md
+---
 layout: slide
 title: "Welcome to our second slide!"
 ---
